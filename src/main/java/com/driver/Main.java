@@ -7,6 +7,7 @@ public class Main {
         rwonly.setName("Mahi");
         //System.out.println(rwonly.name);
         System.out.println(rwonly.getName());
+        //bsb
     }
   
 }
